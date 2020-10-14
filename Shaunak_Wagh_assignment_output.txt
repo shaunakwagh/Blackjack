@@ -1,0 +1,1191 @@
+CMPSC311 - Assignment #1 - Fall 2020
+
+Deck of cards is
+2♠ 3♠ 4♠ 5♠ 6♠ 7♠ 8♠ 9♠ 10♠ J♠ Q♠ K♠ A♠  
+2♣ 3♣ 4♣ 5♣ 6♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣  
+2♥ 3♥ 4♥ 5♥ 6♥ 7♥ 8♥ 9♥ 10♥ J♥ Q♥ K♥ A♥  
+2♦ 3♦ 4♦ 5♦ 6♦ 7♦ 8♦ 9♦ 10♦ J♦ Q♦ K♦ A♦  
+
+Deck of shuffled cards is
+8♣ 4♣ 3♣ 8♦ J♦ 5♦ 6♥ 5♥ K♥ 3♠ 3♥ K♦ 5♠  
+7♦ 7♥ Q♣ 9♦ Q♥ 9♣ 6♣ K♣ J♣ 4♥ 8♠ 4♠ 9♥  
+Q♦ 10♠ A♦ 5♣ 7♠ 2♦ A♥ 2♥ A♠ K♠ J♠ 3♦ Q♠  
+6♠ 10♣ 8♥ 9♠ A♣ J♥ 7♣ 4♦ 10♥ 2♠ 2♣ 6♦ 10♦  
+
+Sorting deck of cards is
+Deck of sorted cards is
+2♠ 2♣ 2♥ 2♦ 3♠ 3♣ 3♥ 3♦ 4♠ 4♣ 4♥ 4♦ 5♠  
+5♣ 5♥ 5♦ 6♠ 6♣ 6♥ 6♦ 7♠ 7♣ 7♥ 7♦ 8♠ 8♣  
+8♥ 8♦ 9♠ 9♣ 9♥ 9♦ 10♠ 10♣ 10♥ 10♦ J♠ J♣ J♥  
+J♦ Q♠ Q♣ Q♥ Q♦ K♠ K♣ K♥ K♦ A♠ A♣ A♥ A♦  
+------- New Hand --------
+
+Dealer Cards: 5♣  XX
+
+Players Cards:9♠ K♠ 
+Player Stands (19):9♠ K♠ 
+
+
+Dealer hit (15):5♣ 5♥ 5♠ 
+Dealer hit (18):5♣ 5♥ 5♠ 3♥ 
+Dealer Stands (18):5♣ 5♥ 5♠ 3♥ 
+ Player wins $5.00
+After hand 1 player has 105.00$ left.
+------- New Hand --------
+
+Dealer Cards: 9♦  XX
+
+Players Cards:7♥ Q♠ 
+Player Stands (17):7♥ Q♠ 
+
+
+Dealer hit (18):9♦ 3♣ 6♠ 
+Dealer Stands (18):9♦ 3♣ 6♠ 
+ Dealer wins !!!
+After hand 2 player has 100.00$ left.
+------- New Hand --------
+
+Dealer Cards: 6♣  XX
+
+Players Cards:4♥ 10♥ 
+Player Stands (14):4♥ 10♥ 
+
+
+Dealer hit (19):6♣ 6♦ 7♣ 
+Dealer Stands (19):6♣ 6♦ 7♣ 
+ Dealer wins !!!
+After hand 3 player has 95.00$ left.
+------- New Hand --------
+
+Dealer Cards: 9♦  XX
+
+Players Cards:9♥ J♦ 
+Player Stands (19):9♥ J♦ 
+
+
+Dealer hit (26):9♦ 7♣ J♣ 
+Dealer BUSTS ... player wins!
+After hand 4 player has 100.00$ left.
+------- New Hand --------
+
+Dealer Cards: 10♥  XX
+
+Players Cards:9♠ 8♥ 
+Player Stands (17):9♠ 8♥ 
+
+
+Dealer Stands (18):10♥ 8♠ 
+ Dealer wins !!!
+After hand 5 player has 95.00$ left.
+------- New Hand --------
+
+Dealer Cards: K♥  XX
+
+Players Cards:Q♦ 8♠ 
+Player Stands (18):Q♦ 8♠ 
+
+
+Dealer hit (25):K♥ 5♣ 10♣ 
+Dealer BUSTS ... player wins!
+After hand 6 player has 100.00$ left.
+------- New Hand --------
+
+Dealer Cards: 4♥  XX
+
+Players Cards:3♠ 9♥ 
+Player Stands (12):3♠ 9♥ 
+
+
+Dealer hit (16):4♥ Q♣ 2♥ 
+Dealer hit (20):4♥ Q♣ 2♥ 4♠ 
+Dealer Stands (20):4♥ Q♣ 2♥ 4♠ 
+ Dealer wins !!!
+After hand 7 player has 95.00$ left.
+------- New Hand --------
+
+Dealer Cards: 9♦  XX
+
+Players Cards:Q♦ 8♠ 
+Player Stands (18):Q♦ 8♠ 
+
+
+Dealer hit (18):9♦ 2♣ 7♠ 
+Dealer Stands (18):9♦ 2♣ 7♠ 
+ Dealer wins !!!
+After hand 8 player has 90.00$ left.
+------- New Hand --------
+
+Dealer Cards: 7♠  XX
+
+Players Cards:K♥ 6♠ 
+Player hit (26):K♥ 6♠ 10♥ 
+Player BUSTS ... dealer wins!
+After hand 9 player has 85.00$ left.
+------- New Hand --------
+
+Dealer Cards: 2♥  XX
+
+Players Cards:A♦ 7♥ 
+Player Stands (18):A♦ 7♥ 
+
+
+Dealer hit (12):2♥ 2♣ 8♥ 
+Dealer hit (16):2♥ 2♣ 8♥ 4♠ 
+Dealer hit (26):2♥ 2♣ 8♥ 4♠ 10♠ 
+Dealer BUSTS ... player wins!
+After hand 10 player has 90.00$ left.
+------- New Hand --------
+
+Dealer Cards: K♠  XX
+
+Players Cards:6♥ K♥ 
+Player hit (22):6♥ K♥ 6♠ 
+Player BUSTS ... dealer wins!
+After hand 11 player has 85.00$ left.
+------- New Hand --------
+
+Dealer Cards: 7♣  XX
+
+Players Cards:6♠ 7♠ 
+Player hit (23):6♠ 7♠ 10♠ 
+Player BUSTS ... dealer wins!
+After hand 12 player has 80.00$ left.
+------- New Hand --------
+
+Dealer Cards: 2♦  XX
+
+Players Cards:3♥ 10♠ 
+Player Stands (13):3♥ 10♠ 
+
+
+Dealer hit (12):2♦ A♥ 9♣ 
+Dealer hit (22):2♦ A♥ 9♣ J♥ 
+Dealer BUSTS ... player wins!
+After hand 13 player has 85.00$ left.
+------- New Hand --------
+
+Dealer Cards: 10♦  XX
+
+Players Cards:9♦ 9♥ 
+Player Stands (18):9♦ 9♥ 
+
+
+Dealer hit (25):10♦ 5♣ K♥ 
+Dealer BUSTS ... player wins!
+After hand 14 player has 90.00$ left.
+------- New Hand --------
+
+Dealer Cards: 6♠  XX
+
+Players Cards:A♥ 3♠ 
+Player Stands (14):A♥ 3♠ 
+
+
+Dealer hit (23):6♠ 7♥ K♣ 
+Dealer BUSTS ... player wins!
+After hand 15 player has 95.00$ left.
+------- New Hand --------
+
+Dealer Cards: 3♥  XX
+
+Players Cards:7♣ 5♣ 
+Player hit (20):7♣ 5♣ 8♥ 
+Player Stands (20):7♣ 5♣ 8♥ 
+
+
+Dealer hit (19):3♥ 6♦ K♣ 
+Dealer Stands (19):3♥ 6♦ K♣ 
+ Player wins $5.00
+After hand 16 player has 100.00$ left.
+------- New Hand --------
+
+Dealer Cards: 4♠  XX
+
+Players Cards:A♣ J♠ 
+ Player has Black Jack, wins $7.50
+After hand 17 player has 107.50$ left.
+------- New Hand --------
+
+Dealer Cards: 9♠  XX
+
+Players Cards:4♦ A♠ 
+Player hit (15):4♦ A♠ J♥ 
+Player hit (18):4♦ A♠ J♥ 3♥ 
+Player Stands (18):4♦ A♠ J♥ 3♥ 
+
+
+Dealer hit (26):9♠ 7♠ 10♥ 
+Dealer BUSTS ... player wins!
+After hand 18 player has 112.50$ left.
+------- New Hand --------
+
+Dealer Cards: 8♣  XX
+
+Players Cards:Q♣ 3♠ 
+Player hit (23):Q♣ 3♠ Q♠ 
+Player BUSTS ... dealer wins!
+After hand 19 player has 107.50$ left.
+------- New Hand --------
+
+Dealer Cards: 4♣  XX
+
+Players Cards:9♥ 3♣ 
+Player Stands (12):9♥ 3♣ 
+
+
+Dealer hit (14):4♣ A♣ 9♣ 
+Dealer hit (22):4♣ A♣ 9♣ 8♦ 
+Dealer BUSTS ... player wins!
+After hand 20 player has 112.50$ left.
+------- New Hand --------
+
+Dealer Cards: 2♦  XX
+
+Players Cards:K♥ 4♠ 
+Player Stands (14):K♥ 4♠ 
+
+
+Dealer hit (19):2♦ 10♦ 7♦ 
+Dealer Stands (19):2♦ 10♦ 7♦ 
+ Dealer wins !!!
+After hand 21 player has 107.50$ left.
+------- New Hand --------
+
+Dealer Cards: 10♠  XX
+
+Players Cards:Q♦ J♦ 
+Player Stands (20):Q♦ J♦ 
+
+
+Dealer hit (26):10♠ 6♥ J♥ 
+Dealer BUSTS ... player wins!
+After hand 22 player has 112.50$ left.
+------- New Hand --------
+
+Dealer Cards: 3♥  XX
+
+Players Cards:K♦ 10♥ 
+Player Stands (20):K♦ 10♥ 
+
+
+Dealer hit (15):3♥ 8♦ 4♦ 
+Dealer hit (16):3♥ 8♦ 4♦ A♥ 
+Dealer hit (23):3♥ 8♦ 4♦ A♥ 7♣ 
+Dealer BUSTS ... player wins!
+After hand 23 player has 117.50$ left.
+------- New Hand --------
+
+Dealer Cards: 8♥  XX
+
+Players Cards:5♦ K♠ 
+Player hit (25):5♦ K♠ J♥ 
+Player BUSTS ... dealer wins!
+After hand 24 player has 112.50$ left.
+------- New Hand --------
+
+Dealer Cards: 2♠  XX
+
+Players Cards:5♥ J♣ 
+Player Stands (15):5♥ J♣ 
+
+
+Dealer hit (14):2♠ 6♠ 6♦ 
+Dealer hit (24):2♠ 6♠ 6♦ K♠ 
+Dealer BUSTS ... player wins!
+After hand 25 player has 117.50$ left.
+------- New Hand --------
+
+Dealer Cards: Q♦  XX
+
+Players Cards:9♦ 3♦ 
+Player hit (22):9♦ 3♦ J♠ 
+Player BUSTS ... dealer wins!
+After hand 26 player has 112.50$ left.
+------- New Hand --------
+
+Dealer Cards: 2♣  XX
+
+Players Cards:4♥ 2♥ 
+Player hit (9):4♥ 2♥ 3♥ 
+Player hit (14):4♥ 2♥ 3♥ 5♣ 
+Player Stands (14):4♥ 2♥ 3♥ 5♣ 
+
+
+Dealer hit (12):2♣ 2♦ 8♦ 
+Dealer hit (18):2♣ 2♦ 8♦ 6♥ 
+Dealer Stands (18):2♣ 2♦ 8♦ 6♥ 
+ Dealer wins !!!
+After hand 27 player has 107.50$ left.
+------- New Hand --------
+
+Dealer Cards: J♠  XX
+
+Players Cards:8♥ 3♣ 
+Player hit (15):8♥ 3♣ 4♦ 
+Player hit (22):8♥ 3♣ 4♦ 7♦ 
+Player BUSTS ... dealer wins!
+After hand 28 player has 102.50$ left.
+------- New Hand --------
+
+Dealer Cards: A♦  XX
+
+Players Cards:Q♣ K♣ 
+Player Stands (20):Q♣ K♣ 
+
+
+Dealer hit (14):A♦ 3♣ K♠ 
+Dealer hit (22):A♦ 3♣ K♠ 8♠ 
+Dealer BUSTS ... player wins!
+After hand 29 player has 107.50$ left.
+------- New Hand --------
+
+Dealer Cards: K♦  XX
+
+Players Cards:7♠ 3♠ 
+Player hit (20):7♠ 3♠ 10♥ 
+Player Stands (20):7♠ 3♠ 10♥ 
+
+
+Dealer Stands (20):K♦ 10♣ 
+ Dealer wins !!!
+After hand 30 player has 102.50$ left.
+------- New Hand --------
+
+Dealer Cards: 7♥  XX
+
+Players Cards:J♣ 3♠ 
+Player hit (16):J♣ 3♠ 3♥ 
+Player hit (24):J♣ 3♠ 3♥ 8♣ 
+Player BUSTS ... dealer wins!
+After hand 31 player has 97.50$ left.
+------- New Hand --------
+
+Dealer Cards: 2♦  XX
+
+Players Cards:5♣ 5♠ 
+Player hit (14):5♣ 5♠ 4♣ 
+Player Stands (14):5♣ 5♠ 4♣ 
+
+
+Dealer hit (14):2♦ Q♠ 2♥ 
+Dealer hit (19):2♦ Q♠ 2♥ 5♦ 
+Dealer Stands (19):2♦ Q♠ 2♥ 5♦ 
+ Dealer wins !!!
+After hand 32 player has 92.50$ left.
+------- New Hand --------
+
+Dealer Cards: 10♠  XX
+
+Players Cards:2♠ K♣ 
+Player hit (22):2♠ K♣ J♥ 
+Player BUSTS ... dealer wins!
+After hand 33 player has 87.50$ left.
+------- New Hand --------
+
+Dealer Cards: 7♠  XX
+
+Players Cards:2♥ K♣ 
+Player hit (18):2♥ K♣ 6♦ 
+Player Stands (18):2♥ K♣ 6♦ 
+
+
+Dealer hit (14):7♠ 3♣ 4♥ 
+Dealer hit (18):7♠ 3♣ 4♥ 4♣ 
+Dealer Stands (18):7♠ 3♣ 4♥ 4♣ 
+ Dealer wins !!!
+After hand 34 player has 82.50$ left.
+------- New Hand --------
+
+Dealer Cards: 9♠  XX
+
+Players Cards:8♣ Q♣ 
+Player Stands (18):8♣ Q♣ 
+
+
+Dealer hit (23):9♠ 4♥ K♠ 
+Dealer BUSTS ... player wins!
+After hand 35 player has 87.50$ left.
+------- New Hand --------
+
+Dealer Cards: 10♦  XX
+
+Players Cards:2♦ 3♦ 
+Player hit (10):2♦ 3♦ 5♣ 
+Player hit (17):2♦ 3♦ 5♣ 7♥ 
+Player Stands (17):2♦ 3♦ 5♣ 7♥ 
+
+
+Dealer Stands (20):10♦ J♣ 
+ Dealer wins !!!
+After hand 36 player has 82.50$ left.
+------- New Hand --------
+
+Dealer Cards: Q♠  XX
+
+Players Cards:10♠ 4♦ 
+Player hit (22):10♠ 4♦ 8♦ 
+Player BUSTS ... dealer wins!
+After hand 37 player has 77.50$ left.
+------- New Hand --------
+
+Dealer Cards: 8♣  XX
+
+Players Cards:J♦ 3♥ 
+Player hit (14):J♦ 3♥ A♣ 
+Player hit (15):J♦ 3♥ A♣ A♥ 
+Player hit (19):J♦ 3♥ A♣ A♥ 4♥ 
+Player Stands (19):J♦ 3♥ A♣ A♥ 4♥ 
+
+
+Dealer hit (19):8♣ 6♦ 5♦ 
+Dealer Stands (19):8♣ 6♦ 5♦ 
+ Dealer wins !!!
+After hand 38 player has 72.50$ left.
+------- New Hand --------
+
+Dealer Cards: 4♦  XX
+
+Players Cards:J♠ Q♥ 
+Player Stands (20):J♠ Q♥ 
+
+
+Dealer hit (16):4♦ 2♣ K♠ 
+Dealer hit (19):4♦ 2♣ K♠ 3♦ 
+Dealer Stands (19):4♦ 2♣ K♠ 3♦ 
+ Player wins $5.00
+After hand 39 player has 77.50$ left.
+------- New Hand --------
+
+Dealer Cards: Q♦  XX
+
+Players Cards:3♥ 6♠ 
+Player hit (19):3♥ 6♠ K♠ 
+Player Stands (19):3♥ 6♠ K♠ 
+
+
+Dealer hit (21):Q♦ 6♦ 5♥ 
+Dealer Stands (21):Q♦ 6♦ 5♥ 
+After hand 40 player has 77.50$ left.
+------- New Hand --------
+
+Dealer Cards: J♥  XX
+
+Players Cards:7♥ 8♦ 
+Player hit (19):7♥ 8♦ 4♠ 
+Player Stands (19):7♥ 8♦ 4♠ 
+
+
+Dealer Stands (20):J♥ J♠ 
+ Dealer wins !!!
+After hand 41 player has 72.50$ left.
+------- New Hand --------
+
+Dealer Cards: A♥  XX
+
+Players Cards:10♣ 2♣ 
+Player hit (15):10♣ 2♣ 3♦ 
+Player hit (25):10♣ 2♣ 3♦ Q♣ 
+Player BUSTS ... dealer wins!
+After hand 42 player has 67.50$ left.
+------- New Hand --------
+
+Dealer Cards: 5♣  XX
+
+Players Cards:7♠ 4♣ 
+Player hit (21):7♠ 4♣ J♠ 
+Player has Black Jack, wins $7.50
+After hand 43 player has 75.00$ left.
+------- New Hand --------
+
+Dealer Cards: 5♠  XX
+
+Players Cards:10♣ 2♠ 
+Player Stands (12):10♣ 2♠ 
+
+
+Dealer hit (13):5♠ 4♣ 4♥ 
+Dealer hit (23):5♠ 4♣ 4♥ 10♦ 
+Dealer BUSTS ... player wins!
+After hand 44 player has 80.00$ left.
+------- New Hand --------
+
+Dealer Cards: 8♦  XX
+
+Players Cards:Q♦ Q♥ 
+Player Stands (20):Q♦ Q♥ 
+
+
+Dealer hit (24):8♦ 6♣ J♥ 
+Dealer BUSTS ... player wins!
+After hand 45 player has 85.00$ left.
+------- New Hand --------
+
+Dealer Cards: K♠  XX
+
+Players Cards:3♠ 8♠ 
+Player hit (18):3♠ 8♠ 7♥ 
+Player Stands (18):3♠ 8♠ 7♥ 
+
+
+Dealer Stands (17):K♠ 7♠ 
+ Player wins $5.00
+After hand 46 player has 90.00$ left.
+------- New Hand --------
+
+Dealer Cards: K♠  XX
+
+Players Cards:2♥ 10♣ 
+Player hit (21):2♥ 10♣ 9♥ 
+Player has Black Jack, wins $7.50
+After hand 47 player has 97.50$ left.
+------- New Hand --------
+
+Dealer Cards: 2♠  XX
+
+Players Cards:6♥ K♥ 
+Player Stands (16):6♥ K♥ 
+
+
+Dealer hit (16):2♠ 9♥ 5♠ 
+Dealer hit (26):2♠ 9♥ 5♠ J♣ 
+Dealer BUSTS ... player wins!
+After hand 48 player has 102.50$ left.
+------- New Hand --------
+
+Dealer Cards: 10♦  XX
+
+Players Cards:5♥ 8♣ 
+Player hit (17):5♥ 8♣ 4♣ 
+Player Stands (17):5♥ 8♣ 4♣ 
+
+
+Dealer Stands (17):10♦ 7♣ 
+ Dealer wins !!!
+After hand 49 player has 97.50$ left.
+------- New Hand --------
+
+Dealer Cards: Q♣  XX
+
+Players Cards:2♦ 10♣ 
+Player hit (22):2♦ 10♣ K♣ 
+Player BUSTS ... dealer wins!
+After hand 50 player has 92.50$ left.
+------- New Hand --------
+
+Dealer Cards: 7♣  XX
+
+Players Cards:6♥ 6♣ 
+Player hit (20):6♥ 6♣ 8♦ 
+Player Stands (20):6♥ 6♣ 8♦ 
+
+
+Dealer hit (23):7♣ 7♠ 9♥ 
+Dealer BUSTS ... player wins!
+After hand 51 player has 97.50$ left.
+------- New Hand --------
+
+Dealer Cards: 3♦  XX
+
+Players Cards:2♣ 2♦ 
+Player hit (14):2♣ 2♦ J♣ 
+Player Stands (14):2♣ 2♦ J♣ 
+
+
+Dealer hit (17):3♦ 3♠ A♣ 
+Dealer Stands (17):3♦ 3♠ A♣ 
+ Dealer wins !!!
+After hand 52 player has 92.50$ left.
+------- New Hand --------
+
+Dealer Cards: 4♣  XX
+
+Players Cards:3♥ 9♥ 
+Player Stands (12):3♥ 9♥ 
+
+
+Dealer hit (16):4♣ 2♥ Q♦ 
+Dealer hit (18):4♣ 2♥ Q♦ 2♦ 
+Dealer Stands (18):4♣ 2♥ Q♦ 2♦ 
+ Dealer wins !!!
+After hand 53 player has 87.50$ left.
+------- New Hand --------
+
+Dealer Cards: 5♥  XX
+
+Players Cards:K♦ J♥ 
+Player Stands (20):K♦ J♥ 
+
+
+Dealer hit (22):5♥ 7♦ J♦ 
+Dealer BUSTS ... player wins!
+After hand 54 player has 92.50$ left.
+------- New Hand --------
+
+Dealer Cards: 8♠  XX
+
+Players Cards:4♥ 3♣ 
+Player hit (17):4♥ 3♣ K♠ 
+Player Stands (17):4♥ 3♣ K♠ 
+
+
+Dealer hit (20):8♠ 3♠ 9♣ 
+Dealer Stands (20):8♠ 3♠ 9♣ 
+ Dealer wins !!!
+After hand 55 player has 87.50$ left.
+------- New Hand --------
+
+Dealer Cards: Q♥  XX
+
+Players Cards:10♣ J♦ 
+Player Stands (20):10♣ J♦ 
+
+
+Dealer Stands (20):Q♥ Q♣ 
+ Dealer wins !!!
+After hand 56 player has 82.50$ left.
+------- New Hand --------
+
+Dealer Cards: 2♦  XX
+
+Players Cards:A♠ J♥ 
+ Player has Black Jack, wins $7.50
+After hand 57 player has 90.00$ left.
+------- New Hand --------
+
+Dealer Cards: 5♦  XX
+
+Players Cards:9♥ K♣ 
+Player Stands (19):9♥ K♣ 
+
+
+Dealer hit (25):5♦ Q♥ Q♦ 
+Dealer BUSTS ... player wins!
+After hand 58 player has 95.00$ left.
+------- New Hand --------
+
+Dealer Cards: K♦  XX
+
+Players Cards:K♥ 2♠ 
+Player hit (15):K♥ 2♠ 3♥ 
+Player hit (20):K♥ 2♠ 3♥ 5♥ 
+Player Stands (20):K♥ 2♠ 3♥ 5♥ 
+
+
+Dealer hit (20):K♦ 5♣ 5♦ 
+Dealer Stands (20):K♦ 5♣ 5♦ 
+ Dealer wins !!!
+After hand 59 player has 90.00$ left.
+------- New Hand --------
+
+Dealer Cards: K♠  XX
+
+Players Cards:10♥ 7♣ 
+Player Stands (17):10♥ 7♣ 
+
+
+Dealer hit (22):K♠ 2♦ K♦ 
+Dealer BUSTS ... player wins!
+After hand 60 player has 95.00$ left.
+------- New Hand --------
+
+Dealer Cards: 4♣  XX
+
+Players Cards:9♣ 6♠ 
+Player Stands (15):9♣ 6♠ 
+
+
+Dealer hit (12):4♣ 3♦ 5♣ 
+Dealer hit (22):4♣ 3♦ 5♣ Q♣ 
+Dealer BUSTS ... player wins!
+After hand 61 player has 100.00$ left.
+------- New Hand --------
+
+Dealer Cards: 8♣  XX
+
+Players Cards:10♣ K♦ 
+Player Stands (20):10♣ K♦ 
+
+
+Dealer Stands (18):8♣ 10♦ 
+ Player wins $5.00
+After hand 62 player has 105.00$ left.
+------- New Hand --------
+
+Dealer Cards: 3♥  XX
+
+Players Cards:A♣ 8♠ 
+Player Stands (19):A♣ 8♠ 
+
+
+Dealer hit (15):3♥ 2♥ K♥ 
+Dealer hit (18):3♥ 2♥ K♥ 3♠ 
+Dealer Stands (18):3♥ 2♥ K♥ 3♠ 
+ Player wins $5.00
+After hand 63 player has 110.00$ left.
+------- New Hand --------
+
+Dealer Cards: K♥  XX
+
+Players Cards:5♣ 5♦ 
+Player hit (20):5♣ 5♦ Q♥ 
+Player Stands (20):5♣ 5♦ Q♥ 
+
+
+Dealer Stands (20):K♥ 10♠ 
+ Dealer wins !!!
+After hand 64 player has 105.00$ left.
+------- New Hand --------
+
+Dealer Cards: 7♦  XX
+
+Players Cards:Q♠ J♠ 
+Player Stands (20):Q♠ J♠ 
+
+
+Dealer hit (19):7♦ 2♦ K♦ 
+Dealer Stands (19):7♦ 2♦ K♦ 
+ Player wins $5.00
+After hand 65 player has 110.00$ left.
+------- New Hand --------
+
+Dealer Cards: 6♠  XX
+
+Players Cards:Q♣ J♣ 
+Player Stands (20):Q♣ J♣ 
+
+
+Dealer hit (26):6♠ J♦ K♣ 
+Dealer BUSTS ... player wins!
+After hand 66 player has 115.00$ left.
+------- New Hand --------
+
+Dealer Cards: 3♦  XX
+
+Players Cards:Q♠ 8♦ 
+Player Stands (18):Q♠ 8♦ 
+
+
+Dealer hit (16):3♦ A♦ 2♠ 
+Dealer hit (17):3♦ A♦ 2♠ A♥ 
+Dealer Stands (17):3♦ A♦ 2♠ A♥ 
+ Player wins $5.00
+After hand 67 player has 120.00$ left.
+------- New Hand --------
+
+Dealer Cards: K♦  XX
+
+Players Cards:6♠ 3♦ 
+Player hit (12):6♠ 3♦ 3♣ 
+Player hit (22):6♠ 3♦ 3♣ K♠ 
+Player BUSTS ... dealer wins!
+After hand 68 player has 115.00$ left.
+------- New Hand --------
+
+Dealer Cards: 8♥  XX
+
+Players Cards:4♣ 7♠ 
+Player hit (18):4♣ 7♠ 7♦ 
+Player Stands (18):4♣ 7♠ 7♦ 
+
+
+Dealer Stands (19):8♥ A♣ 
+ Dealer wins !!!
+After hand 69 player has 110.00$ left.
+------- New Hand --------
+
+Dealer Cards: Q♦  XX
+
+Players Cards:6♠ 7♥ 
+Player hit (23):6♠ 7♥ K♦ 
+Player BUSTS ... dealer wins!
+After hand 70 player has 105.00$ left.
+------- New Hand --------
+
+Dealer Cards: 2♦  XX
+
+Players Cards:6♣ A♣ 
+Player Stands (17):6♣ A♣ 
+
+
+Dealer hit (18):2♦ 9♣ 7♣ 
+Dealer Stands (18):2♦ 9♣ 7♣ 
+ Dealer wins !!!
+After hand 71 player has 100.00$ left.
+------- New Hand --------
+
+Dealer Cards: 8♦  XX
+
+Players Cards:2♣ A♦ 
+Player hit (20):2♣ A♦ 7♣ 
+Player Stands (20):2♣ A♦ 7♣ 
+
+
+Dealer hit (21):8♦ 3♦ 10♥ 
+Dealer Stands (21):8♦ 3♦ 10♥ 
+After hand 72 player has 100.00$ left.
+------- New Hand --------
+
+Dealer Cards: 5♥  XX
+
+Players Cards:5♦ 9♠ 
+Player Stands (14):5♦ 9♠ 
+
+
+Dealer hit (12):5♥ 4♥ 3♦ 
+Dealer hit (22):5♥ 4♥ 3♦ Q♠ 
+Dealer BUSTS ... player wins!
+After hand 73 player has 105.00$ left.
+------- New Hand --------
+
+Dealer Cards: 7♥  XX
+
+Players Cards:A♥ 3♦ 
+Player hit (14):A♥ 3♦ 10♠ 
+Player hit (20):A♥ 3♦ 10♠ 6♥ 
+Player Stands (20):A♥ 3♦ 10♠ 6♥ 
+
+
+Dealer hit (25):7♥ 8♥ J♠ 
+Dealer BUSTS ... player wins!
+After hand 74 player has 110.00$ left.
+------- New Hand --------
+
+Dealer Cards: 3♠  XX
+
+Players Cards:J♣ K♠ 
+Player Stands (20):J♣ K♠ 
+
+
+Dealer hit (14):3♠ 5♥ 6♦ 
+Dealer hit (16):3♠ 5♥ 6♦ 2♠ 
+Dealer hit (21):3♠ 5♥ 6♦ 2♠ 5♣ 
+Dealer Stands (21):3♠ 5♥ 6♦ 2♠ 5♣ 
+After hand 75 player has 110.00$ left.
+------- New Hand --------
+
+Dealer Cards: J♥  XX
+
+Players Cards:Q♣ 5♠ 
+Player hit (23):Q♣ 5♠ 8♠ 
+Player BUSTS ... dealer wins!
+After hand 76 player has 105.00$ left.
+------- New Hand --------
+
+Dealer Cards: 7♠  XX
+
+Players Cards:9♣ A♦ 
+Player Stands (20):9♣ A♦ 
+
+
+Dealer hit (25):7♠ 8♥ 10♣ 
+Dealer BUSTS ... player wins!
+After hand 77 player has 110.00$ left.
+------- New Hand --------
+
+Dealer Cards: 3♠  XX
+
+Players Cards:2♣ 4♦ 
+Player hit (10):2♣ 4♦ 4♠ 
+Player hit (17):2♣ 4♦ 4♠ 7♣ 
+Player Stands (17):2♣ 4♦ 4♠ 7♣ 
+
+
+Dealer hit (21):3♠ 8♠ Q♥ 
+Dealer Stands (21):3♠ 8♠ Q♥ 
+After hand 78 player has 110.00$ left.
+------- New Hand --------
+
+Dealer Cards: 5♦  XX
+
+Players Cards:4♥ A♠ 
+Player Stands (15):4♥ A♠ 
+
+
+Dealer hit (16):5♦ 5♣ 6♦ 
+Dealer hit (24):5♦ 5♣ 6♦ 8♥ 
+Dealer BUSTS ... player wins!
+After hand 79 player has 115.00$ left.
+------- New Hand --------
+
+Dealer Cards: 4♥  XX
+
+Players Cards:8♣ Q♥ 
+Player Stands (18):8♣ Q♥ 
+
+
+Dealer hit (15):4♥ K♠ A♦ 
+Dealer hit (22):4♥ K♠ A♦ 7♦ 
+Dealer BUSTS ... player wins!
+After hand 80 player has 120.00$ left.
+------- New Hand --------
+
+Dealer Cards: A♥  XX
+
+Players Cards:5♦ 9♠ 
+Player hit (22):5♦ 9♠ 8♦ 
+Player BUSTS ... dealer wins!
+After hand 81 player has 115.00$ left.
+------- New Hand --------
+
+Dealer Cards: 2♦  XX
+
+Players Cards:6♠ 8♣ 
+Player Stands (14):6♠ 8♣ 
+
+
+Dealer hit (21):2♦ 9♥ K♦ 
+Dealer Stands (21):2♦ 9♥ K♦ 
+After hand 82 player has 115.00$ left.
+------- New Hand --------
+
+Dealer Cards: 4♠  XX
+
+Players Cards:8♥ 9♦ 
+Player Stands (17):8♥ 9♦ 
+
+
+Dealer hit (9):4♠ 3♦ 2♦ 
+Dealer hit (17):4♠ 3♦ 2♦ 8♦ 
+Dealer Stands (17):4♠ 3♦ 2♦ 8♦ 
+ Dealer wins !!!
+After hand 83 player has 110.00$ left.
+------- New Hand --------
+
+Dealer Cards: 6♣  XX
+
+Players Cards:8♠ 2♠ 
+Player hit (20):8♠ 2♠ Q♣ 
+Player Stands (20):8♠ 2♠ Q♣ 
+
+
+Dealer hit (23):6♣ 7♠ 10♣ 
+Dealer BUSTS ... player wins!
+After hand 84 player has 115.00$ left.
+------- New Hand --------
+
+Dealer Cards: 3♥  XX
+
+Players Cards:4♥ J♥ 
+Player Stands (14):4♥ J♥ 
+
+
+Dealer hit (16):3♥ Q♣ 3♠ 
+Dealer hit (24):3♥ Q♣ 3♠ 8♥ 
+Dealer BUSTS ... player wins!
+After hand 85 player has 120.00$ left.
+------- New Hand --------
+
+Dealer Cards: 5♠  XX
+
+Players Cards:10♣ 6♦ 
+Player Stands (16):10♣ 6♦ 
+
+
+Dealer hit (14):5♠ 7♥ 2♥ 
+Dealer hit (24):5♠ 7♥ 2♥ K♦ 
+Dealer BUSTS ... player wins!
+After hand 86 player has 125.00$ left.
+------- New Hand --------
+
+Dealer Cards: J♠  XX
+
+Players Cards:9♣ 5♦ 
+Player hit (16):9♣ 5♦ 2♠ 
+Player hit (26):9♣ 5♦ 2♠ K♦ 
+Player BUSTS ... dealer wins!
+After hand 87 player has 120.00$ left.
+------- New Hand --------
+
+Dealer Cards: J♦  XX
+
+Players Cards:9♦ 6♦ 
+Player hit (19):9♦ 6♦ 4♥ 
+Player Stands (19):9♦ 6♦ 4♥ 
+
+
+Dealer hit (26):J♦ 6♠ Q♣ 
+Dealer BUSTS ... player wins!
+After hand 88 player has 125.00$ left.
+------- New Hand --------
+
+Dealer Cards: 10♥  XX
+
+Players Cards:J♥ 9♠ 
+Player Stands (19):J♥ 9♠ 
+
+
+Dealer hit (24):10♥ 4♠ 10♦ 
+Dealer BUSTS ... player wins!
+After hand 89 player has 130.00$ left.
+------- New Hand --------
+
+Dealer Cards: 9♥  XX
+
+Players Cards:10♦ J♣ 
+Player Stands (20):10♦ J♣ 
+
+
+Dealer Stands (17):9♥ 8♥ 
+ Player wins $5.00
+After hand 90 player has 135.00$ left.
+------- New Hand --------
+
+Dealer Cards: 6♠  XX
+
+Players Cards:3♥ 5♣ 
+Player hit (14):3♥ 5♣ 6♣ 
+Player Stands (14):3♥ 5♣ 6♣ 
+
+
+Dealer hit (19):6♠ 3♠ Q♦ 
+Dealer Stands (19):6♠ 3♠ Q♦ 
+ Dealer wins !!!
+After hand 91 player has 130.00$ left.
+------- New Hand --------
+
+Dealer Cards: 4♦  XX
+
+Players Cards:5♣ A♣ 
+Player Stands (16):5♣ A♣ 
+
+
+Dealer hit (15):4♦ 5♥ 6♠ 
+Dealer hit (22):4♦ 5♥ 6♠ 7♠ 
+Dealer BUSTS ... player wins!
+After hand 92 player has 135.00$ left.
+------- New Hand --------
+
+Dealer Cards: 8♣  XX
+
+Players Cards:Q♣ 4♠ 
+Player hit (15):Q♣ 4♠ A♣ 
+Player hit (18):Q♣ 4♠ A♣ 3♣ 
+Player Stands (18):Q♣ 4♠ A♣ 3♣ 
+
+
+Dealer Stands (19):8♣ A♦ 
+ Dealer wins !!!
+After hand 93 player has 130.00$ left.
+------- New Hand --------
+
+Dealer Cards: 5♦  XX
+
+Players Cards:8♦ 6♥ 
+Player Stands (14):8♦ 6♥ 
+
+
+Dealer hit (15):5♦ 3♠ 7♣ 
+Dealer hit (25):5♦ 3♠ 7♣ K♥ 
+Dealer BUSTS ... player wins!
+After hand 94 player has 135.00$ left.
+------- New Hand --------
+
+Dealer Cards: 8♣  XX
+
+Players Cards:4♦ 5♦ 
+Player hit (14):4♦ 5♦ 5♣ 
+Player hit (24):4♦ 5♦ 5♣ J♦ 
+Player BUSTS ... dealer wins!
+After hand 95 player has 130.00$ left.
+------- New Hand --------
+
+Dealer Cards: 3♥  XX
+
+Players Cards:K♣ J♥ 
+Player Stands (20):K♣ J♥ 
+
+
+Dealer hit (23):3♥ 10♠ 10♥ 
+Dealer BUSTS ... player wins!
+After hand 96 player has 135.00$ left.
+------- New Hand --------
+
+Dealer Cards: 10♣  XX
+
+Players Cards:9♦ 7♦ 
+Player hit (22):9♦ 7♦ 6♠ 
+Player BUSTS ... dealer wins!
+After hand 97 player has 130.00$ left.
+------- New Hand --------
+
+Dealer Cards: J♥  XX
+
+Players Cards:K♦ 7♥ 
+Player Stands (17):K♦ 7♥ 
+
+
+Dealer Stands (20):J♥ Q♣ 
+ Dealer wins !!!
+After hand 98 player has 125.00$ left.
+------- New Hand --------
+
+Dealer Cards: 4♥  XX
+
+Players Cards:9♦ J♦ 
+Player Stands (19):9♦ J♦ 
+
+
+Dealer hit (18):4♥ 6♣ 8♠ 
+Dealer Stands (18):4♥ 6♣ 8♠ 
+ Player wins $5.00
+After hand 99 player has 130.00$ left.
+------- New Hand --------
+
+Dealer Cards: Q♣  XX
+
+Players Cards:4♦ 2♥ 
+Player hit (16):4♦ 2♥ 10♦ 
+Player hit (26):4♦ 2♥ 10♦ J♦ 
+Player BUSTS ... dealer wins!
+After hand 100 player has 125.00$ left.
+Blackjack done - player won 49 out of  100 hands (49.00). 
+
+                                       Player Cash by Round 
+    ----------------------------------------------------------------------------------------------------
+200|....................................................................................................|
+195|....................................................................................................|
+190|....................................................................................................|
+185|....................................................................................................|
+180|....................................................................................................|
+175|....................................................................................................|
+170|....................................................................................................|
+165|....................................................................................................|
+160|....................................................................................................|
+155|....................................................................................................|
+150|....................................................................................................|
+145|....................................................................................................|
+140|....................................................................................................|
+135|.........................................................................................x.x.x.x....|
+130|........................................................................................xxxxxxxxx.x.|
+125|.....................................................................................x.xxxxxxxxxxxxx|
+120|..................................................................x............x....xxxxxxxxxxxxxxxx|
+115|......................x.x........................................xxx..........xxxx.xxxxxxxxxxxxxxxxx|
+110|.................x.x.xxxxx....................................x.xxxxx....xx.xxxxxxxxxxxxxxxxxxxxxxxx|
+105|x...............xxxxxxxxxxx.x................................xxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+100|xx.x.x.........xxxxxxxxxxxxxxx.................x............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 95|xxxxxxx.......xxxxxxxxxxxxxxxxx...............xxx.x......x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 90|xxxxxxxx.x...xxxxxxxxxxxxxxxxxxx.............xxxxxxx.x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 85|xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx.x.........xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 80|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 75|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 70|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 65|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 60|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 55|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 50|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 45|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 40|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 35|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 30|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 25|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 20|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 15|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+ 10|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+  5|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+  0|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+    ----------------------------------------------------------------------------------------------------
+             1         2         3         4         5         6         7         8         9         10
+    1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+
+CMPSC311 - Assignment #1 - Spring 2020 Complete.
